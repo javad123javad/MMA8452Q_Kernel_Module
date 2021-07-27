@@ -1,1 +1,0 @@
-cmd_/home/javad/workspace/driver_devel/mma8452q_driver/mma8452q.mod := { echo  /home/javad/workspace/driver_devel/mma8452q_driver/mma8452q.o;  echo; } > /home/javad/workspace/driver_devel/mma8452q_driver/mma8452q.mod

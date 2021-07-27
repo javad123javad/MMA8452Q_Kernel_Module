@@ -1,1 +1,0 @@
-cmd_/home/javad/workspace/driver_devel/mma8452q_driver/modules.order := {   echo /home/javad/workspace/driver_devel/mma8452q_driver/mma8452q.ko; :; } | awk '!x[$$0]++' - > /home/javad/workspace/driver_devel/mma8452q_driver/modules.order
