@@ -1,0 +1,1 @@
+cmd_/home/javad/workspace/driver_devel/mma8452q_driver/mma8452q.ko := aarch64-linux-gnu-ld -r  -EL  -maarch64elf  --build-id=sha1  -T scripts/module.lds -o /home/javad/workspace/driver_devel/mma8452q_driver/mma8452q.ko /home/javad/workspace/driver_devel/mma8452q_driver/mma8452q.o /home/javad/workspace/driver_devel/mma8452q_driver/mma8452q.mod.o;  true
